@@ -39,6 +39,7 @@
   background: #ffe0b3;
   position: absolute;
   bottom: 0;
+  padding: 10px;
 }
 .cart-button:hover {
   background-color: or;

@@ -1,13 +1,10 @@
-.cart-details {
-  background-color: rgba(255, 153, 0, 0.3);
-  position: sticky;
-  padding: 10px;
-  top: 0;
+.review-container {
+  margin: 50px auto;
 }
-.btn-clear-cart {
+.btn-style {
   width: 90%;
   margin: 5px auto;
-  background-color: #ff3030;
+  background-color: #688f59;
   border-radius: 4px;
   color: white;
   display: flex;
@@ -15,4 +12,9 @@
   align-items: center;
   font-size: 14px;
   padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+.link-under {
+  text-decoration: none;
 }
